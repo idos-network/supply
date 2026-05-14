@@ -2,6 +2,7 @@
   "name": "idos-supply",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "dependencies": {
     "ethers": "^6.13.0"
   }

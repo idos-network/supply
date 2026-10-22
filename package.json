@@ -1,8 +1,13 @@
 {
   "name": "idos-supply",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "license": "MIT",
+  "scripts": {
+    "test": "node test.js",
+    "breakdown": "node scripts/breakdown.js",
+    "discover": "node scripts/discover.js"
+  },
   "dependencies": {
     "ethers": "^6.13.0"
   }
